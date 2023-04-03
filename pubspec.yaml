@@ -53,15 +53,15 @@ dev_dependencies:
 flutter_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/images/logo.png"
+  image_path: "assets/images/hotel_logo.png"
   web:
     generate: true
-    image_path: "assets/images/logo.png"
+    image_path: "assets/images/hotel_logo.png"
     background_color: "#039dfc"
 #    theme_color: "#hexcode"
   windows:
     generate: true
-    image_path: "assets/images/logo.png"
+    image_path: "assets/images/hotel_logo.png"
     background_color: "#039dfc"
     icon_size: 48
 
